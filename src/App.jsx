@@ -29,7 +29,7 @@ const siteProps = {
   email: "jai247pathak@gmail.com",
   gitHub: "casanovajj",
   
-  linkedIn: "janmejay-pathak/",
+  linkedIn: "janmejay-pathak",
   medium: "",
   twitter: "",
   youTube: "@janmejaypathak1195",
