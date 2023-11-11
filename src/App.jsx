@@ -29,10 +29,10 @@ const siteProps = {
   email: "jai247pathak@gmail.com",
   gitHub: "https://github.com/casanovajj",
   
-  linkedIn: "Janmejay pathak",
+  linkedIn: "https://www.linkedin.com/in/janmejay-pathak/",
   medium: "",
-  twitter: "janmejay1",
-  youTube: "anonymous",
+  twitter: "",
+  youTube: "@janmejaypathak1195",
 };
 
 const primaryColor = "#4E567E";
