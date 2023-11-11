@@ -27,9 +27,9 @@ const siteProps = {
   name: "Janmejay Pathak",
   title: "Student in Entreprenuer journey",
   email: "jai247pathak@gmail.com",
-  gitHub: "https://github.com/casanovajj",
+  gitHub: "casanovajj",
   
-  linkedIn: "https://www.linkedin.com/in/janmejay-pathak/",
+  linkedIn: "janmejay-pathak/",
   medium: "",
   twitter: "",
   youTube: "@janmejaypathak1195",
